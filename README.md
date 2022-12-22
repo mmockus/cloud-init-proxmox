@@ -37,6 +37,10 @@ sudo apt-get install qemu-guest-agent
 sudo systemctl start qemu-guest-agent
 ```
 
+```bash
+sudo apt update && sudo apt upgrade
+```
+
 ## References
 
 - [Techno Tim - Perfect Proxmox Template with Cloud Image and Cloud Init](https://docs.technotim.live/posts/cloud-init-cloud-image/) [(video)](https://www.youtube.com/watch?v=shiIi38cJe4)
